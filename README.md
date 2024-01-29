@@ -1,2 +1,8 @@
-# Parser_Yandex
-Parser for Yandes
+# Парсер поисковой выдачи Яндекс
+
+Парсер написан под БАС, но вы можете просто запустить его и все необходимые пакеты подгрузятся автоматически. Настройка осуществляется быстро, даже новичок сможет разобраться
+
+Капча решается через сторонний сервис распознавания капчи - 2captcha.com
+
+Ссылка на инструкцию по настройке парсера - [Parser for Yandes
+](https://shade-fenugreek-094.notion.site/YandexParserBot-a17602d082b04e9f91ee4487e4c83aa5)https://shade-fenugreek-094.notion.site/YandexParserBot-a17602d082b04e9f91ee4487e4c83aa5
